@@ -1,0 +1,8 @@
+- 05.07.2011 Rev B 
+    - fixed LED pads, soldermask was missing!
+    - Moved upper right via
+
+- 03.07.2011 Rev A
+    - init
+
+
